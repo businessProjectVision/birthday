@@ -24,9 +24,11 @@ body {
 }
 
 .span_check{
-  font-size: 0.91rem;
+  font-size: 0.92rem;
   margin-left: 1.2rem;
   color: white;
+  width: max-content;
+  display: inline-block;
 }
 
 .flow-text {
