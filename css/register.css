@@ -192,6 +192,7 @@ a#whatsapp{
     bottom: -0%;
     background-size: contain;
     border-radius: 180%;
+    height: auto;
 }
 
 
