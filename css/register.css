@@ -186,9 +186,9 @@ footer.site {
 
 a#whatsapp{
     position: fixed;
-    width: 4% !important;
+    width: 44.5px !important;
     z-index: 10;
-    margin-left: 1.2rem;
+    margin-left: 1.4rem;
     bottom: -0%;
     background-size: contain;
     border-radius: 180%;
