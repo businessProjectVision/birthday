@@ -29,8 +29,9 @@ body {
   font-weight: 400;
   color: #01579b;
   text-align: justify;
-  font-size: 12px;
-  font-family: cursive;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: sans-serif;
   flex-wrap: wrap;
 }
 
