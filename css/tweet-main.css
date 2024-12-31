@@ -21,11 +21,12 @@ body {
   width: 14.2px;
   height: 14.2px;
   margin-block: 2.5px;
+  margin-left:-0.3rem;
 }
 
 .span_check{
   font-size: 1rem;
-  margin-left: 1.6rem;
+  margin-left: 1rem;
   color: white;
   width: max-content;
   display: inline-block;
