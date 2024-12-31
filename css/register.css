@@ -115,6 +115,9 @@ span#point-time > span {
 #cardguest{
     text-align: justify;
     display: inline-block;
+    font-weight: bold;
+    font-family: emoji;
+    font-size:14.55px;  
 }
 .effectimg {
     opacity:98%;
