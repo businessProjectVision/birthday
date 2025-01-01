@@ -48,6 +48,8 @@ label {
     border-radius: 10px;
     padding-right: 4px;
     font-size: 10.1px;
+    font-weight: 900;
+    font-family: monospace;
 }
 .chiplabel {
     display: inline-block;
