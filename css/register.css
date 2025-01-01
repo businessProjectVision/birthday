@@ -39,8 +39,7 @@ label {
     font-size: 16px;
     font-weight: 900;
     background-color: #ffffff73;
-    border-radius: 5px;
-    padding: 1px;
+    border-radius: 2.5px;
 }
 .time-style{
     background-color: hsl(0, 0%, 100%);
