@@ -97,7 +97,7 @@ label {
 
 a#alarm-ativo > img {
     	
-    width: 38%!important;
+    width: 20%!important;
     margin-top: 0.7rem;
     margin-left:3.9rem;
     border-radius: 150px;
@@ -390,6 +390,9 @@ img.fa-style {
 @media (max-width: 767px) {
     .time-style {
         font-size: 1.465vw; /* Tamaño de fuente para móviles */
+    }
+    a#alarm-ativo > img {
+        width: 35.5%!important;
     }
 }
   
