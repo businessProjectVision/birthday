@@ -391,10 +391,11 @@ img.fa-style {
 /* Para dispositivos móviles */
 @media (max-width: 767px) {
     .time-style {
-        font-size: 1.465vw; /* Tamaño de fuente para móviles */
+        font-size: 1vw; /* Tamaño de fuente para móviles */
+	font-family: sans-serif;
     }
     a#alarm-ativo > img {
-        width: 35.5%!important;
+        width: 28%!important;
     }
 }
   
