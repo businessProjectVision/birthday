@@ -385,4 +385,11 @@ img.fa-style {
     top: 80%;
     animation-delay: -0.25s;
   }
+
+/* Para dispositivos móviles */
+@media (max-width: 767px) {
+    .time-style {
+        font-size: 1.465vw; /* Tamaño de fuente para móviles */
+    }
+}
   
